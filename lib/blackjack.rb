@@ -52,6 +52,6 @@ end
 
 def runner
   total = initial_round
-  
+  until total is 
 end
     
