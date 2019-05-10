@@ -19,7 +19,8 @@ def get_user_input (a = gets.chomp)
   
 end
 
-def end_game
+def end_game(x)
+  
   
 end
 
