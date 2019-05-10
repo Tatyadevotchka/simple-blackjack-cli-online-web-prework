@@ -32,7 +32,7 @@ end
 
 def hit?(x)
   prompt_user
-  
+  case get
   
 end
 
