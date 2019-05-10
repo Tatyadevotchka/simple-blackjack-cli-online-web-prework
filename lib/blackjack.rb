@@ -36,7 +36,7 @@ def hit?(x)
   when "s"
     x 
     when "h"
-      
+      x+=
   
 end
 
