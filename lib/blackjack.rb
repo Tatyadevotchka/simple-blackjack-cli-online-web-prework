@@ -37,6 +37,7 @@ def hit?(x)
     x 
     when "h"
       x+= deal_card
+      when others
   
 end
 
