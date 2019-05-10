@@ -33,7 +33,8 @@ end
 def hit?(x)
   prompt_user
   case get_user_input
-  
+  when "s"
+    
   
 end
 
