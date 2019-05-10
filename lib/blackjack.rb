@@ -51,6 +51,7 @@ end
 #####################################################
 
 def runner
+  total = initial_round
   
 end
     
