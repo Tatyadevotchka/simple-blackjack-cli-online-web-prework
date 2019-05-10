@@ -3,7 +3,7 @@ def welcome
 end
 
 def deal_card (card = 1..11)
-  
+  rand 
   
 end
 
