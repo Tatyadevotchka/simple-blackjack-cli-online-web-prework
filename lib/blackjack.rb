@@ -38,6 +38,8 @@ def hit?(x)
     when "h"
       x+= deal_card
       when others
+        invalid_command
+        
   
 end
 
