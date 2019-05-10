@@ -39,7 +39,6 @@ def hit?(x)
       x+= deal_card
       when others
         invalid_command
-        
   
 end
 
